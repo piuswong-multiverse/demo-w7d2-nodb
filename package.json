@@ -1,0 +1,23 @@
+{
+  "name": "demo-w7d2-nodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piuswong-multiverse/demo-w7d2-nodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piuswong-multiverse/demo-w7d2-nodb/issues"
+  },
+  "homepage": "https://github.com/piuswong-multiverse/demo-w7d2-nodb#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
